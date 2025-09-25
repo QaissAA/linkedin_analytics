@@ -1,10 +1,9 @@
-📄 Пример README.md
 # LinkedIn Analytics Project
 
-## 📌 Компания
+##  Компания
 **TalentVision Analytics** — консалтинговая компания, которая занимается исследованием профессиональных сетей и карьерных траекторий специалистов на основе открытых данных LinkedIn.  
 
-## 📊 Проект
+##  Проект
 Цель проекта — построить систему визуализации и аналитики профилей LinkedIn.  
 Основные направления анализа:
 - Демографический анализ (пол, возраст, национальность).
@@ -27,46 +26,26 @@
    CREATE DATABASE linkedin_db;
 
 
-Выполните скрипт создания схемы:
-
-\i schema.sql
-
-
-Загрузите данные:
-
-\i import.psql
-
-
 Установите зависимости Python:
-
 pip install -r requirements.txt
 
 
-Запустите скрипт аналитики:
-
-python linkedin_queries.py
+Запустите скрипт соединения и аналитики:
+python sql_connect.py
 
 
 Результаты сохраняются в:
-
 CSV/Excel (.csv, .xlsx файлы).
-
 PNG-графики в папке проекта.
 
-🛠 Используемые инструменты и ресурсы
-
+Используемые инструменты и ресурсы
 PostgreSQL 17 — хранение данных.
-
 Python 3.11 — аналитика и визуализация.
 
 Библиотеки:
-
 psycopg2-binary — подключение к PostgreSQL.
-
 pandas — обработка данных.
-
 matplotlib — построение графиков.
-
 openpyxl — экспорт в Excel.
 
-Датасет: LinkedIn Dataset (Kaggle)
+Датасет: LinkedIn Dataset (Kaggle):https://www.kaggle.com/datasets/killbot/linkedin
