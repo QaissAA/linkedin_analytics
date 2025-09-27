@@ -28,7 +28,7 @@
    ```sql
    CREATE DATABASE linkedin_db;
 
-## 🚀 Установка и запуск
+##  Установка и запуск
 
 ### 1. Установите зависимости Python:
 ```bash
@@ -47,7 +47,7 @@ PostgreSQL 17 — хранение данных
 
 Python 3.11 — аналитика и визуализация
 
-📦 Библиотеки:
+ Библиотеки:
 psycopg2-binary — подключение к PostgreSQL
 
 pandas — обработка данных
@@ -55,8 +55,9 @@ pandas — обработка данных
 matplotlib — построение графиков
 
 openpyxl — экспорт в Excel
+```
 
-📊 Датасет:
+Датасет:
 [LinkedIn Dataset](https://www.kaggle.com/datasets/killbot/linkedin)
 
 
