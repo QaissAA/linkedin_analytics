@@ -16,7 +16,8 @@
 ## Скриншот аналитики
 <img width="600" height="400" alt="gender_distribution" src="https://github.com/user-attachments/assets/a773ca88-fd4b-482e-b9a0-a4f7496242e5" />
 
-[ERD Diagram](images/erd.jpg)
+![erd](https://github.com/user-attachments/assets/301702c2-413a-4902-9066-72c3eada3988)
+
 
 ---
 
