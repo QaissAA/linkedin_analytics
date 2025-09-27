@@ -28,36 +28,35 @@
    ```sql
    CREATE DATABASE linkedin_db;
 
+## 🚀 Установка и запуск
 
-Установите зависимости Python:
-
+### 1. Установите зависимости Python:
+```bash
 pip install -r requirements.txt
-
-
-Запустите скрипт соединения и аналитики:
-
+2. Запустите скрипт соединения и аналитики:
+bash
+Копировать код
 python sql_connect.py
+3. Результаты сохраняются в:
+CSV/Excel: .csv, .xlsx файлы
+
+Графики: .png файлы в папке проекта
+
+🛠 Используемые инструменты и ресурсы
+PostgreSQL 17 — хранение данных
+
+Python 3.11 — аналитика и визуализация
+
+📦 Библиотеки:
+psycopg2-binary — подключение к PostgreSQL
+
+pandas — обработка данных
+
+matplotlib — построение графиков
+
+openpyxl — экспорт в Excel
+
+📊 Датасет:
+[LinkedIn Dataset](https://www.kaggle.com/datasets/killbot/linkedin)
 
 
-Результаты сохраняются в:
-
-CSV/Excel (.csv, .xlsx файлы).
-
-PNG-графики в папке проекта.
-
-Используемые инструменты и ресурсы
-
-PostgreSQL 17 — хранение данных.
-
-Python 3.11 — аналитика и визуализация.
-
-Библиотеки:
-psycopg2-binary — подключение к PostgreSQL.
-
-pandas — обработка данных.
-
-matplotlib — построение графиков.
-
-openpyxl — экспорт в Excel.
-
-Датасет: LinkedIn Dataset (Kaggle) https://www.kaggle.com/datasets/killbot/linkedin
