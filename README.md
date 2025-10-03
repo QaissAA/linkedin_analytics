@@ -16,11 +16,13 @@
 ## Скриншот аналитики
 Аналитика пола
 
-<img width="600" height="400" alt="gender_distribution" src="https://github.com/user-attachments/assets/a773ca88-fd4b-482e-b9a0-a4f7496242e5" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7f641358-0289-4aae-8dec-c06bc31196f5" />
+
 
 Erd Диаграмма
 
-![erd](https://github.com/user-attachments/assets/301702c2-413a-4902-9066-72c3eada3988)
+<img width="767" height="711" alt="image" src="https://github.com/user-attachments/assets/7f70454b-40be-4728-900a-797c9fb814a5" />
+
 
 ---
 
@@ -63,5 +65,6 @@ openpyxl — экспорт в Excel
 
 Датасет:
 [LinkedIn Dataset](https://www.kaggle.com/datasets/killbot/linkedin)
+
 
 
